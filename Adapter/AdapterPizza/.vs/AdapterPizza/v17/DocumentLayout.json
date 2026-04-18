@@ -1,0 +1,131 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\AdapterPizza\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A383302A-A1F6-463A-9F94-C7917DB8C570}|AdapterPizza\\AdapterPizza.csproj|c:\\users\\user\\source\\repos\\adapterpizza\\adapterpizza\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A383302A-A1F6-463A-9F94-C7917DB8C570}|AdapterPizza\\AdapterPizza.csproj|solutionrelative:adapterpizza\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A383302A-A1F6-463A-9F94-C7917DB8C570}|AdapterPizza\\AdapterPizza.csproj|c:\\users\\user\\source\\repos\\adapterpizza\\adapterpizza\\imodernpizzaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A383302A-A1F6-463A-9F94-C7917DB8C570}|AdapterPizza\\AdapterPizza.csproj|solutionrelative:adapterpizza\\imodernpizzaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A383302A-A1F6-463A-9F94-C7917DB8C570}|AdapterPizza\\AdapterPizza.csproj|c:\\users\\user\\source\\repos\\adapterpizza\\adapterpizza\\italianpizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A383302A-A1F6-463A-9F94-C7917DB8C570}|AdapterPizza\\AdapterPizza.csproj|solutionrelative:adapterpizza\\italianpizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A383302A-A1F6-463A-9F94-C7917DB8C570}|AdapterPizza\\AdapterPizza.csproj|c:\\users\\user\\source\\repos\\adapterpizza\\adapterpizza\\pizzaadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A383302A-A1F6-463A-9F94-C7917DB8C570}|AdapterPizza\\AdapterPizza.csproj|solutionrelative:adapterpizza\\pizzaadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A383302A-A1F6-463A-9F94-C7917DB8C570}|AdapterPizza\\AdapterPizza.csproj|c:\\users\\user\\source\\repos\\adapterpizza\\adapterpizza\\pizzashop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A383302A-A1F6-463A-9F94-C7917DB8C570}|AdapterPizza\\AdapterPizza.csproj|solutionrelative:adapterpizza\\pizzashop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PizzaShop.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\AdapterPizza\\AdapterPizza\\PizzaShop.cs",
+              "RelativeDocumentMoniker": "AdapterPizza\\PizzaShop.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\AdapterPizza\\AdapterPizza\\PizzaShop.cs",
+              "RelativeToolTip": "AdapterPizza\\PizzaShop.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T14:20:03.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PizzaAdapter.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\AdapterPizza\\AdapterPizza\\PizzaAdapter.cs",
+              "RelativeDocumentMoniker": "AdapterPizza\\PizzaAdapter.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\AdapterPizza\\AdapterPizza\\PizzaAdapter.cs",
+              "RelativeToolTip": "AdapterPizza\\PizzaAdapter.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAIwB4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T14:16:50.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IModernPizzaService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\AdapterPizza\\AdapterPizza\\IModernPizzaService.cs",
+              "RelativeDocumentMoniker": "AdapterPizza\\IModernPizzaService.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\AdapterPizza\\AdapterPizza\\IModernPizzaService.cs",
+              "RelativeToolTip": "AdapterPizza\\IModernPizzaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T14:15:06.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ItalianPizza.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\AdapterPizza\\AdapterPizza\\ItalianPizza.cs",
+              "RelativeDocumentMoniker": "AdapterPizza\\ItalianPizza.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\AdapterPizza\\AdapterPizza\\ItalianPizza.cs",
+              "RelativeToolTip": "AdapterPizza\\ItalianPizza.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T14:11:55.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\AdapterPizza\\AdapterPizza\\Program.cs",
+              "RelativeDocumentMoniker": "AdapterPizza\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\AdapterPizza\\AdapterPizza\\Program.cs",
+              "RelativeToolTip": "AdapterPizza\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T14:10:50.68Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1134,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

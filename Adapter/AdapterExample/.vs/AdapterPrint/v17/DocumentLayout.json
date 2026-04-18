@@ -1,0 +1,127 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\AdapterPrint\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C37983AA-23DF-4496-B012-0B6B692D4B4C}|AdapterPrint\\AdapterMusic.csproj|c:\\users\\user\\source\\repos\\adapterprint\\adapterprint\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C37983AA-23DF-4496-B012-0B6B692D4B4C}|AdapterPrint\\AdapterMusic.csproj|solutionrelative:adapterprint\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C37983AA-23DF-4496-B012-0B6B692D4B4C}|AdapterPrint\\AdapterMusic.csproj|c:\\users\\user\\source\\repos\\adapterprint\\adapterprint\\mp3player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C37983AA-23DF-4496-B012-0B6B692D4B4C}|AdapterPrint\\AdapterMusic.csproj|solutionrelative:adapterprint\\mp3player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C37983AA-23DF-4496-B012-0B6B692D4B4C}|AdapterPrint\\AdapterMusic.csproj|c:\\users\\user\\source\\repos\\adapterprint\\adapterprint\\mediaadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C37983AA-23DF-4496-B012-0B6B692D4B4C}|AdapterPrint\\AdapterMusic.csproj|solutionrelative:adapterprint\\mediaadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C37983AA-23DF-4496-B012-0B6B692D4B4C}|AdapterPrint\\AdapterMusic.csproj|c:\\users\\user\\source\\repos\\adapterprint\\adapterprint\\musicapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C37983AA-23DF-4496-B012-0B6B692D4B4C}|AdapterPrint\\AdapterMusic.csproj|solutionrelative:adapterprint\\musicapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C37983AA-23DF-4496-B012-0B6B692D4B4C}|AdapterPrint\\AdapterMusic.csproj|c:\\users\\user\\source\\repos\\adapterprint\\adapterprint\\imediaplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C37983AA-23DF-4496-B012-0B6B692D4B4C}|AdapterPrint\\AdapterMusic.csproj|solutionrelative:adapterprint\\imediaplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MusicApp.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\AdapterPrint\\AdapterPrint\\MusicApp.cs",
+              "RelativeDocumentMoniker": "AdapterPrint\\MusicApp.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\AdapterPrint\\AdapterPrint\\MusicApp.cs",
+              "RelativeToolTip": "AdapterPrint\\MusicApp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T13:55:40.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MediaAdapter.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\AdapterPrint\\AdapterPrint\\MediaAdapter.cs",
+              "RelativeDocumentMoniker": "AdapterPrint\\MediaAdapter.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\AdapterPrint\\AdapterPrint\\MediaAdapter.cs",
+              "RelativeToolTip": "AdapterPrint\\MediaAdapter.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T13:52:45.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IMediaPlayer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\AdapterPrint\\AdapterPrint\\IMediaPlayer.cs",
+              "RelativeDocumentMoniker": "AdapterPrint\\IMediaPlayer.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\AdapterPrint\\AdapterPrint\\IMediaPlayer.cs",
+              "RelativeToolTip": "AdapterPrint\\IMediaPlayer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T13:51:37.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Mp3Player.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\AdapterPrint\\AdapterPrint\\Mp3Player.cs",
+              "RelativeDocumentMoniker": "AdapterPrint\\Mp3Player.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\AdapterPrint\\AdapterPrint\\Mp3Player.cs",
+              "RelativeToolTip": "AdapterPrint\\Mp3Player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T13:49:57.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\AdapterPrint\\AdapterPrint\\Program.cs",
+              "RelativeDocumentMoniker": "AdapterPrint\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\AdapterPrint\\AdapterPrint\\Program.cs",
+              "RelativeToolTip": "AdapterPrint\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T13:42:32.511Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1134,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
