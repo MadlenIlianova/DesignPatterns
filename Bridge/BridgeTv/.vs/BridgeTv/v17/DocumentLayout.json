@@ -1,0 +1,148 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\BridgeTv\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{61EAF7F1-952E-4BBE-A9E3-9F31F6F37840}|BridgeTv\\BridgeTv.csproj|c:\\users\\user\\source\\repos\\bridgetv\\bridgetv\\advancedremote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61EAF7F1-952E-4BBE-A9E3-9F31F6F37840}|BridgeTv\\BridgeTv.csproj|solutionrelative:bridgetv\\advancedremote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61EAF7F1-952E-4BBE-A9E3-9F31F6F37840}|BridgeTv\\BridgeTv.csproj|c:\\users\\user\\source\\repos\\bridgetv\\bridgetv\\idevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61EAF7F1-952E-4BBE-A9E3-9F31F6F37840}|BridgeTv\\BridgeTv.csproj|solutionrelative:bridgetv\\idevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61EAF7F1-952E-4BBE-A9E3-9F31F6F37840}|BridgeTv\\BridgeTv.csproj|c:\\users\\user\\source\\repos\\bridgetv\\bridgetv\\lg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61EAF7F1-952E-4BBE-A9E3-9F31F6F37840}|BridgeTv\\BridgeTv.csproj|solutionrelative:bridgetv\\lg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61EAF7F1-952E-4BBE-A9E3-9F31F6F37840}|BridgeTv\\BridgeTv.csproj|c:\\users\\user\\source\\repos\\bridgetv\\bridgetv\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61EAF7F1-952E-4BBE-A9E3-9F31F6F37840}|BridgeTv\\BridgeTv.csproj|solutionrelative:bridgetv\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61EAF7F1-952E-4BBE-A9E3-9F31F6F37840}|BridgeTv\\BridgeTv.csproj|c:\\users\\user\\source\\repos\\bridgetv\\bridgetv\\remote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61EAF7F1-952E-4BBE-A9E3-9F31F6F37840}|BridgeTv\\BridgeTv.csproj|solutionrelative:bridgetv\\remote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61EAF7F1-952E-4BBE-A9E3-9F31F6F37840}|BridgeTv\\BridgeTv.csproj|c:\\users\\user\\source\\repos\\bridgetv\\bridgetv\\samsung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61EAF7F1-952E-4BBE-A9E3-9F31F6F37840}|BridgeTv\\BridgeTv.csproj|solutionrelative:bridgetv\\samsung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdvancedRemote.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BridgeTv\\BridgeTv\\AdvancedRemote.cs",
+              "RelativeDocumentMoniker": "BridgeTv\\AdvancedRemote.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\BridgeTv\\BridgeTv\\AdvancedRemote.cs",
+              "RelativeToolTip": "BridgeTv\\AdvancedRemote.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T12:45:26.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Remote.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BridgeTv\\BridgeTv\\Remote.cs",
+              "RelativeDocumentMoniker": "BridgeTv\\Remote.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\BridgeTv\\BridgeTv\\Remote.cs",
+              "RelativeToolTip": "BridgeTv\\Remote.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T12:40:27.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LG.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BridgeTv\\BridgeTv\\LG.cs",
+              "RelativeDocumentMoniker": "BridgeTv\\LG.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\BridgeTv\\BridgeTv\\LG.cs",
+              "RelativeToolTip": "BridgeTv\\LG.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T12:39:31.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Samsung.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BridgeTv\\BridgeTv\\Samsung.cs",
+              "RelativeDocumentMoniker": "BridgeTv\\Samsung.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\BridgeTv\\BridgeTv\\Samsung.cs",
+              "RelativeToolTip": "BridgeTv\\Samsung.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T12:34:03.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IDevice.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BridgeTv\\BridgeTv\\IDevice.cs",
+              "RelativeDocumentMoniker": "BridgeTv\\IDevice.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\BridgeTv\\BridgeTv\\IDevice.cs",
+              "RelativeToolTip": "BridgeTv\\IDevice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T12:32:46.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BridgeTv\\BridgeTv\\Program.cs",
+              "RelativeDocumentMoniker": "BridgeTv\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\BridgeTv\\BridgeTv\\Program.cs",
+              "RelativeToolTip": "BridgeTv\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T12:31:18.796Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1134,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

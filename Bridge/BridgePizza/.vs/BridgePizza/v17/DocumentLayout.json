@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\BridgePizza\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B6907E56-470C-438D-ADDF-E58126BAA1FE}|BridgePizza\\BridgePizza.csproj|c:\\users\\user\\source\\repos\\bridgepizza\\bridgepizza\\pizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6907E56-470C-438D-ADDF-E58126BAA1FE}|BridgePizza\\BridgePizza.csproj|solutionrelative:bridgepizza\\pizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6907E56-470C-438D-ADDF-E58126BAA1FE}|BridgePizza\\BridgePizza.csproj|c:\\users\\user\\source\\repos\\bridgepizza\\bridgepizza\\margherita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6907E56-470C-438D-ADDF-E58126BAA1FE}|BridgePizza\\BridgePizza.csproj|solutionrelative:bridgepizza\\margherita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6907E56-470C-438D-ADDF-E58126BAA1FE}|BridgePizza\\BridgePizza.csproj|c:\\users\\user\\source\\repos\\bridgepizza\\bridgepizza\\pepperoni.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6907E56-470C-438D-ADDF-E58126BAA1FE}|BridgePizza\\BridgePizza.csproj|solutionrelative:bridgepizza\\pepperoni.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6907E56-470C-438D-ADDF-E58126BAA1FE}|BridgePizza\\BridgePizza.csproj|c:\\users\\user\\source\\repos\\bridgepizza\\bridgepizza\\ovencooking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6907E56-470C-438D-ADDF-E58126BAA1FE}|BridgePizza\\BridgePizza.csproj|solutionrelative:bridgepizza\\ovencooking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6907E56-470C-438D-ADDF-E58126BAA1FE}|BridgePizza\\BridgePizza.csproj|c:\\users\\user\\source\\repos\\bridgepizza\\bridgepizza\\icookingmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6907E56-470C-438D-ADDF-E58126BAA1FE}|BridgePizza\\BridgePizza.csproj|solutionrelative:bridgepizza\\icookingmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6907E56-470C-438D-ADDF-E58126BAA1FE}|BridgePizza\\BridgePizza.csproj|c:\\users\\user\\source\\repos\\bridgepizza\\bridgepizza\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6907E56-470C-438D-ADDF-E58126BAA1FE}|BridgePizza\\BridgePizza.csproj|solutionrelative:bridgepizza\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6907E56-470C-438D-ADDF-E58126BAA1FE}|BridgePizza\\BridgePizza.csproj|c:\\users\\user\\source\\repos\\bridgepizza\\bridgepizza\\grillcooking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6907E56-470C-438D-ADDF-E58126BAA1FE}|BridgePizza\\BridgePizza.csproj|solutionrelative:bridgepizza\\grillcooking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Pepperoni.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BridgePizza\\BridgePizza\\Pepperoni.cs",
+              "RelativeDocumentMoniker": "BridgePizza\\Pepperoni.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\BridgePizza\\BridgePizza\\Pepperoni.cs",
+              "RelativeToolTip": "BridgePizza\\Pepperoni.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T12:23:48.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Margherita.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BridgePizza\\BridgePizza\\Margherita.cs",
+              "RelativeDocumentMoniker": "BridgePizza\\Margherita.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\BridgePizza\\BridgePizza\\Margherita.cs",
+              "RelativeToolTip": "BridgePizza\\Margherita.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T12:23:11.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Pizza.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BridgePizza\\BridgePizza\\Pizza.cs",
+              "RelativeDocumentMoniker": "BridgePizza\\Pizza.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\BridgePizza\\BridgePizza\\Pizza.cs",
+              "RelativeToolTip": "BridgePizza\\Pizza.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T12:21:15.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GrillCooking.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BridgePizza\\BridgePizza\\GrillCooking.cs",
+              "RelativeDocumentMoniker": "BridgePizza\\GrillCooking.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\BridgePizza\\BridgePizza\\GrillCooking.cs",
+              "RelativeToolTip": "BridgePizza\\GrillCooking.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T12:20:39.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OvenCooking.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BridgePizza\\BridgePizza\\OvenCooking.cs",
+              "RelativeDocumentMoniker": "BridgePizza\\OvenCooking.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\BridgePizza\\BridgePizza\\OvenCooking.cs",
+              "RelativeToolTip": "BridgePizza\\OvenCooking.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T12:18:07.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICookingMethod.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BridgePizza\\BridgePizza\\ICookingMethod.cs",
+              "RelativeDocumentMoniker": "BridgePizza\\ICookingMethod.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\BridgePizza\\BridgePizza\\ICookingMethod.cs",
+              "RelativeToolTip": "BridgePizza\\ICookingMethod.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T12:17:14.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BridgePizza\\BridgePizza\\Program.cs",
+              "RelativeDocumentMoniker": "BridgePizza\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\BridgePizza\\BridgePizza\\Program.cs",
+              "RelativeToolTip": "BridgePizza\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T12:12:36.358Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1134,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
