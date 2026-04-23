@@ -1,0 +1,114 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\ProtectionProxy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2C61EC46-063B-46B5-B605-17ED32A69B4C}|ProtectionProxy\\ProtectionProxy.csproj|c:\\users\\user\\source\\repos\\protectionproxy\\protectionproxy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C61EC46-063B-46B5-B605-17ED32A69B4C}|ProtectionProxy\\ProtectionProxy.csproj|solutionrelative:protectionproxy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C61EC46-063B-46B5-B605-17ED32A69B4C}|ProtectionProxy\\ProtectionProxy.csproj|c:\\users\\user\\source\\repos\\protectionproxy\\protectionproxy\\secretdocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C61EC46-063B-46B5-B605-17ED32A69B4C}|ProtectionProxy\\ProtectionProxy.csproj|solutionrelative:protectionproxy\\secretdocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C61EC46-063B-46B5-B605-17ED32A69B4C}|ProtectionProxy\\ProtectionProxy.csproj|c:\\users\\user\\source\\repos\\protectionproxy\\protectionproxy\\idocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C61EC46-063B-46B5-B605-17ED32A69B4C}|ProtectionProxy\\ProtectionProxy.csproj|solutionrelative:protectionproxy\\idocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C61EC46-063B-46B5-B605-17ED32A69B4C}|ProtectionProxy\\ProtectionProxy.csproj|c:\\users\\user\\source\\repos\\protectionproxy\\protectionproxy\\documentproxy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C61EC46-063B-46B5-B605-17ED32A69B4C}|ProtectionProxy\\ProtectionProxy.csproj|solutionrelative:protectionproxy\\documentproxy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DocumentProxy.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ProtectionProxy\\ProtectionProxy\\DocumentProxy.cs",
+              "RelativeDocumentMoniker": "ProtectionProxy\\DocumentProxy.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ProtectionProxy\\ProtectionProxy\\DocumentProxy.cs",
+              "RelativeToolTip": "ProtectionProxy\\DocumentProxy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T12:46:02.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SecretDocument.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ProtectionProxy\\ProtectionProxy\\SecretDocument.cs",
+              "RelativeDocumentMoniker": "ProtectionProxy\\SecretDocument.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ProtectionProxy\\ProtectionProxy\\SecretDocument.cs",
+              "RelativeToolTip": "ProtectionProxy\\SecretDocument.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T12:44:52.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IDocument.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ProtectionProxy\\ProtectionProxy\\IDocument.cs",
+              "RelativeDocumentMoniker": "ProtectionProxy\\IDocument.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ProtectionProxy\\ProtectionProxy\\IDocument.cs",
+              "RelativeToolTip": "ProtectionProxy\\IDocument.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T12:44:18.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ProtectionProxy\\ProtectionProxy\\Program.cs",
+              "RelativeDocumentMoniker": "ProtectionProxy\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ProtectionProxy\\ProtectionProxy\\Program.cs",
+              "RelativeToolTip": "ProtectionProxy\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T12:43:49.738Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1134,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

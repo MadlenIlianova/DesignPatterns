@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\DecoratorCoffee\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B4C8A5B4-349F-4C0C-8263-C492BA6480DB}|DecoratorCoffee\\DecoratorCoffee.csproj|c:\\users\\user\\source\\repos\\decoratorcoffee\\decoratorcoffee\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4C8A5B4-349F-4C0C-8263-C492BA6480DB}|DecoratorCoffee\\DecoratorCoffee.csproj|solutionrelative:decoratorcoffee\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4C8A5B4-349F-4C0C-8263-C492BA6480DB}|DecoratorCoffee\\DecoratorCoffee.csproj|c:\\users\\user\\source\\repos\\decoratorcoffee\\decoratorcoffee\\basedecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4C8A5B4-349F-4C0C-8263-C492BA6480DB}|DecoratorCoffee\\DecoratorCoffee.csproj|solutionrelative:decoratorcoffee\\basedecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4C8A5B4-349F-4C0C-8263-C492BA6480DB}|DecoratorCoffee\\DecoratorCoffee.csproj|c:\\users\\user\\source\\repos\\decoratorcoffee\\decoratorcoffee\\icoffee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4C8A5B4-349F-4C0C-8263-C492BA6480DB}|DecoratorCoffee\\DecoratorCoffee.csproj|solutionrelative:decoratorcoffee\\icoffee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4C8A5B4-349F-4C0C-8263-C492BA6480DB}|DecoratorCoffee\\DecoratorCoffee.csproj|c:\\users\\user\\source\\repos\\decoratorcoffee\\decoratorcoffee\\milkdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4C8A5B4-349F-4C0C-8263-C492BA6480DB}|DecoratorCoffee\\DecoratorCoffee.csproj|solutionrelative:decoratorcoffee\\milkdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4C8A5B4-349F-4C0C-8263-C492BA6480DB}|DecoratorCoffee\\DecoratorCoffee.csproj|c:\\users\\user\\source\\repos\\decoratorcoffee\\decoratorcoffee\\simplecoffee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4C8A5B4-349F-4C0C-8263-C492BA6480DB}|DecoratorCoffee\\DecoratorCoffee.csproj|solutionrelative:decoratorcoffee\\simplecoffee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4C8A5B4-349F-4C0C-8263-C492BA6480DB}|DecoratorCoffee\\DecoratorCoffee.csproj|c:\\users\\user\\source\\repos\\decoratorcoffee\\decoratorcoffee\\sugardecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4C8A5B4-349F-4C0C-8263-C492BA6480DB}|DecoratorCoffee\\DecoratorCoffee.csproj|solutionrelative:decoratorcoffee\\sugardecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4C8A5B4-349F-4C0C-8263-C492BA6480DB}|DecoratorCoffee\\DecoratorCoffee.csproj|c:\\users\\user\\source\\repos\\decoratorcoffee\\decoratorcoffee\\vanilladecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4C8A5B4-349F-4C0C-8263-C492BA6480DB}|DecoratorCoffee\\DecoratorCoffee.csproj|solutionrelative:decoratorcoffee\\vanilladecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "VanillaDecorator.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\DecoratorCoffee\\DecoratorCoffee\\VanillaDecorator.cs",
+              "RelativeDocumentMoniker": "DecoratorCoffee\\VanillaDecorator.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\DecoratorCoffee\\DecoratorCoffee\\VanillaDecorator.cs*",
+              "RelativeToolTip": "DecoratorCoffee\\VanillaDecorator.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T12:09:19.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SugarDecorator.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\DecoratorCoffee\\DecoratorCoffee\\SugarDecorator.cs",
+              "RelativeDocumentMoniker": "DecoratorCoffee\\SugarDecorator.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\DecoratorCoffee\\DecoratorCoffee\\SugarDecorator.cs*",
+              "RelativeToolTip": "DecoratorCoffee\\SugarDecorator.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T12:08:33.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MilkDecorator.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\DecoratorCoffee\\DecoratorCoffee\\MilkDecorator.cs",
+              "RelativeDocumentMoniker": "DecoratorCoffee\\MilkDecorator.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\DecoratorCoffee\\DecoratorCoffee\\MilkDecorator.cs*",
+              "RelativeToolTip": "DecoratorCoffee\\MilkDecorator.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T12:07:50.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BaseDecorator.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\DecoratorCoffee\\DecoratorCoffee\\BaseDecorator.cs",
+              "RelativeDocumentMoniker": "DecoratorCoffee\\BaseDecorator.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\DecoratorCoffee\\DecoratorCoffee\\BaseDecorator.cs*",
+              "RelativeToolTip": "DecoratorCoffee\\BaseDecorator.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T12:06:05.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SimpleCoffee.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\DecoratorCoffee\\DecoratorCoffee\\SimpleCoffee.cs",
+              "RelativeDocumentMoniker": "DecoratorCoffee\\SimpleCoffee.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\DecoratorCoffee\\DecoratorCoffee\\SimpleCoffee.cs*",
+              "RelativeToolTip": "DecoratorCoffee\\SimpleCoffee.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T12:04:41.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ICoffee.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\DecoratorCoffee\\DecoratorCoffee\\ICoffee.cs",
+              "RelativeDocumentMoniker": "DecoratorCoffee\\ICoffee.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\DecoratorCoffee\\DecoratorCoffee\\ICoffee.cs*",
+              "RelativeToolTip": "DecoratorCoffee\\ICoffee.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T12:04:13.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\DecoratorCoffee\\DecoratorCoffee\\Program.cs",
+              "RelativeDocumentMoniker": "DecoratorCoffee\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\DecoratorCoffee\\DecoratorCoffee\\Program.cs",
+              "RelativeToolTip": "DecoratorCoffee\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T12:03:29.664Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1134,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
