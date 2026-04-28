@@ -20,14 +20,13 @@ namespace ChainOfResponsibility
             if (CanProcessOrder(order))
             {
                 ProcessOrder(order);
-            }
-            else if (nextOrderHandler != null)
-            {
-                nextOrderHandler.DistributeOrderProcessing(order);
+
+               if (nextOrderHandler != null)
+                    nextOrderHandler.DistributeOrderProcessing(order);
             }
             else
             {
-                Console.WriteLine("Order cannot be processed");
+                Console.WriteLine("Order cannot be processed: " + order.OrderId);
             }
         }
 

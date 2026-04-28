@@ -1,0 +1,180 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\ChainOfResponsibility\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9106A40E-1244-4EBC-9CFD-CBD7A13DFD11}|ChainOfResponsibility\\ChainOfResponsibility.csproj|c:\\users\\user\\source\\repos\\chainofresponsibility\\chainofresponsibility\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9106A40E-1244-4EBC-9CFD-CBD7A13DFD11}|ChainOfResponsibility\\ChainOfResponsibility.csproj|solutionrelative:chainofresponsibility\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9106A40E-1244-4EBC-9CFD-CBD7A13DFD11}|ChainOfResponsibility\\ChainOfResponsibility.csproj|c:\\users\\user\\source\\repos\\chainofresponsibility\\chainofresponsibility\\baseorderhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9106A40E-1244-4EBC-9CFD-CBD7A13DFD11}|ChainOfResponsibility\\ChainOfResponsibility.csproj|solutionrelative:chainofresponsibility\\baseorderhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9106A40E-1244-4EBC-9CFD-CBD7A13DFD11}|ChainOfResponsibility\\ChainOfResponsibility.csproj|c:\\users\\user\\source\\repos\\chainofresponsibility\\chainofresponsibility\\paymentverificationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9106A40E-1244-4EBC-9CFD-CBD7A13DFD11}|ChainOfResponsibility\\ChainOfResponsibility.csproj|solutionrelative:chainofresponsibility\\paymentverificationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9106A40E-1244-4EBC-9CFD-CBD7A13DFD11}|ChainOfResponsibility\\ChainOfResponsibility.csproj|c:\\users\\user\\source\\repos\\chainofresponsibility\\chainofresponsibility\\iorderhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9106A40E-1244-4EBC-9CFD-CBD7A13DFD11}|ChainOfResponsibility\\ChainOfResponsibility.csproj|solutionrelative:chainofresponsibility\\iorderhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9106A40E-1244-4EBC-9CFD-CBD7A13DFD11}|ChainOfResponsibility\\ChainOfResponsibility.csproj|c:\\users\\user\\source\\repos\\chainofresponsibility\\chainofresponsibility\\inventorycheckhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9106A40E-1244-4EBC-9CFD-CBD7A13DFD11}|ChainOfResponsibility\\ChainOfResponsibility.csproj|solutionrelative:chainofresponsibility\\inventorycheckhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9106A40E-1244-4EBC-9CFD-CBD7A13DFD11}|ChainOfResponsibility\\ChainOfResponsibility.csproj|c:\\users\\user\\source\\repos\\chainofresponsibility\\chainofresponsibility\\shippingconfirmationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9106A40E-1244-4EBC-9CFD-CBD7A13DFD11}|ChainOfResponsibility\\ChainOfResponsibility.csproj|solutionrelative:chainofresponsibility\\shippingconfirmationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9106A40E-1244-4EBC-9CFD-CBD7A13DFD11}|ChainOfResponsibility\\ChainOfResponsibility.csproj|c:\\users\\user\\source\\repos\\chainofresponsibility\\chainofresponsibility\\validationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9106A40E-1244-4EBC-9CFD-CBD7A13DFD11}|ChainOfResponsibility\\ChainOfResponsibility.csproj|solutionrelative:chainofresponsibility\\validationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9106A40E-1244-4EBC-9CFD-CBD7A13DFD11}|ChainOfResponsibility\\ChainOfResponsibility.csproj|c:\\users\\user\\source\\repos\\chainofresponsibility\\chainofresponsibility\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9106A40E-1244-4EBC-9CFD-CBD7A13DFD11}|ChainOfResponsibility\\ChainOfResponsibility.csproj|solutionrelative:chainofresponsibility\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ChainOfResponsibility\\ChainOfResponsibility\\Program.cs",
+              "RelativeDocumentMoniker": "ChainOfResponsibility\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ChainOfResponsibility\\ChainOfResponsibility\\Program.cs",
+              "RelativeToolTip": "ChainOfResponsibility\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T12:18:17.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PaymentVerificationHandler.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ChainOfResponsibility\\ChainOfResponsibility\\PaymentVerificationHandler.cs",
+              "RelativeDocumentMoniker": "ChainOfResponsibility\\PaymentVerificationHandler.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ChainOfResponsibility\\ChainOfResponsibility\\PaymentVerificationHandler.cs",
+              "RelativeToolTip": "ChainOfResponsibility\\PaymentVerificationHandler.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAkwBwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T12:34:05.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ShippingConfirmationHandler.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ChainOfResponsibility\\ChainOfResponsibility\\ShippingConfirmationHandler.cs",
+              "RelativeDocumentMoniker": "ChainOfResponsibility\\ShippingConfirmationHandler.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ChainOfResponsibility\\ChainOfResponsibility\\ShippingConfirmationHandler.cs",
+              "RelativeToolTip": "ChainOfResponsibility\\ShippingConfirmationHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T12:34:46.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BaseOrderHandler.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ChainOfResponsibility\\ChainOfResponsibility\\BaseOrderHandler.cs",
+              "RelativeDocumentMoniker": "ChainOfResponsibility\\BaseOrderHandler.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ChainOfResponsibility\\ChainOfResponsibility\\BaseOrderHandler.cs",
+              "RelativeToolTip": "ChainOfResponsibility\\BaseOrderHandler.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwCEAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T12:21:13.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InventoryCheckHandler.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ChainOfResponsibility\\ChainOfResponsibility\\InventoryCheckHandler.cs",
+              "RelativeDocumentMoniker": "ChainOfResponsibility\\InventoryCheckHandler.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ChainOfResponsibility\\ChainOfResponsibility\\InventoryCheckHandler.cs",
+              "RelativeToolTip": "ChainOfResponsibility\\InventoryCheckHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T12:30:38.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IOrderHandler.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ChainOfResponsibility\\ChainOfResponsibility\\IOrderHandler.cs",
+              "RelativeDocumentMoniker": "ChainOfResponsibility\\IOrderHandler.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ChainOfResponsibility\\ChainOfResponsibility\\IOrderHandler.cs",
+              "RelativeToolTip": "ChainOfResponsibility\\IOrderHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T12:19:33.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ValidationHandler.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ChainOfResponsibility\\ChainOfResponsibility\\ValidationHandler.cs",
+              "RelativeDocumentMoniker": "ChainOfResponsibility\\ValidationHandler.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ChainOfResponsibility\\ChainOfResponsibility\\ValidationHandler.cs",
+              "RelativeToolTip": "ChainOfResponsibility\\ValidationHandler.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T12:23:25.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ChainOfResponsibility\\ChainOfResponsibility\\Order.cs",
+              "RelativeDocumentMoniker": "ChainOfResponsibility\\Order.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ChainOfResponsibility\\ChainOfResponsibility\\Order.cs",
+              "RelativeToolTip": "ChainOfResponsibility\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T12:20:34.373Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1134,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
