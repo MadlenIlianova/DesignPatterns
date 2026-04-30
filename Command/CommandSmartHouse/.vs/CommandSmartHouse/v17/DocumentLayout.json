@@ -1,0 +1,199 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\CommandSmartHouse\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BD0AFD01-66C8-45DE-BAD2-E61D00CF58A3}|CommandSmartHouse\\CommandSmartHouse.csproj|c:\\users\\user\\source\\repos\\commandsmarthouse\\commandsmarthouse\\turnoffairconditionercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD0AFD01-66C8-45DE-BAD2-E61D00CF58A3}|CommandSmartHouse\\CommandSmartHouse.csproj|solutionrelative:commandsmarthouse\\turnoffairconditionercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD0AFD01-66C8-45DE-BAD2-E61D00CF58A3}|CommandSmartHouse\\CommandSmartHouse.csproj|c:\\users\\user\\source\\repos\\commandsmarthouse\\commandsmarthouse\\airconditioner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD0AFD01-66C8-45DE-BAD2-E61D00CF58A3}|CommandSmartHouse\\CommandSmartHouse.csproj|solutionrelative:commandsmarthouse\\airconditioner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD0AFD01-66C8-45DE-BAD2-E61D00CF58A3}|CommandSmartHouse\\CommandSmartHouse.csproj|c:\\users\\user\\source\\repos\\commandsmarthouse\\commandsmarthouse\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD0AFD01-66C8-45DE-BAD2-E61D00CF58A3}|CommandSmartHouse\\CommandSmartHouse.csproj|solutionrelative:commandsmarthouse\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD0AFD01-66C8-45DE-BAD2-E61D00CF58A3}|CommandSmartHouse\\CommandSmartHouse.csproj|c:\\users\\user\\source\\repos\\commandsmarthouse\\commandsmarthouse\\light.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD0AFD01-66C8-45DE-BAD2-E61D00CF58A3}|CommandSmartHouse\\CommandSmartHouse.csproj|solutionrelative:commandsmarthouse\\light.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD0AFD01-66C8-45DE-BAD2-E61D00CF58A3}|CommandSmartHouse\\CommandSmartHouse.csproj|c:\\users\\user\\source\\repos\\commandsmarthouse\\commandsmarthouse\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD0AFD01-66C8-45DE-BAD2-E61D00CF58A3}|CommandSmartHouse\\CommandSmartHouse.csproj|solutionrelative:commandsmarthouse\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD0AFD01-66C8-45DE-BAD2-E61D00CF58A3}|CommandSmartHouse\\CommandSmartHouse.csproj|c:\\users\\user\\source\\repos\\commandsmarthouse\\commandsmarthouse\\remotecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD0AFD01-66C8-45DE-BAD2-E61D00CF58A3}|CommandSmartHouse\\CommandSmartHouse.csproj|solutionrelative:commandsmarthouse\\remotecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD0AFD01-66C8-45DE-BAD2-E61D00CF58A3}|CommandSmartHouse\\CommandSmartHouse.csproj|c:\\users\\user\\source\\repos\\commandsmarthouse\\commandsmarthouse\\turnofflightcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD0AFD01-66C8-45DE-BAD2-E61D00CF58A3}|CommandSmartHouse\\CommandSmartHouse.csproj|solutionrelative:commandsmarthouse\\turnofflightcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD0AFD01-66C8-45DE-BAD2-E61D00CF58A3}|CommandSmartHouse\\CommandSmartHouse.csproj|c:\\users\\user\\source\\repos\\commandsmarthouse\\commandsmarthouse\\turnonairconditionercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD0AFD01-66C8-45DE-BAD2-E61D00CF58A3}|CommandSmartHouse\\CommandSmartHouse.csproj|solutionrelative:commandsmarthouse\\turnonairconditionercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD0AFD01-66C8-45DE-BAD2-E61D00CF58A3}|CommandSmartHouse\\CommandSmartHouse.csproj|c:\\users\\user\\source\\repos\\commandsmarthouse\\commandsmarthouse\\turnonlightcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD0AFD01-66C8-45DE-BAD2-E61D00CF58A3}|CommandSmartHouse\\CommandSmartHouse.csproj|solutionrelative:commandsmarthouse\\turnonlightcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TurnOffLightCommand.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\CommandSmartHouse\\CommandSmartHouse\\TurnOffLightCommand.cs",
+              "RelativeDocumentMoniker": "CommandSmartHouse\\TurnOffLightCommand.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\CommandSmartHouse\\CommandSmartHouse\\TurnOffLightCommand.cs",
+              "RelativeToolTip": "CommandSmartHouse\\TurnOffLightCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T11:58:43.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RemoteControl.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\CommandSmartHouse\\CommandSmartHouse\\RemoteControl.cs",
+              "RelativeDocumentMoniker": "CommandSmartHouse\\RemoteControl.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\CommandSmartHouse\\CommandSmartHouse\\RemoteControl.cs",
+              "RelativeToolTip": "CommandSmartHouse\\RemoteControl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T12:02:21.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TurnOffAirConditionerCommand.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\CommandSmartHouse\\CommandSmartHouse\\TurnOffAirConditionerCommand.cs",
+              "RelativeDocumentMoniker": "CommandSmartHouse\\TurnOffAirConditionerCommand.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\CommandSmartHouse\\CommandSmartHouse\\TurnOffAirConditionerCommand.cs",
+              "RelativeToolTip": "CommandSmartHouse\\TurnOffAirConditionerCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T12:01:25.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\CommandSmartHouse\\CommandSmartHouse\\Program.cs",
+              "RelativeDocumentMoniker": "CommandSmartHouse\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\CommandSmartHouse\\CommandSmartHouse\\Program.cs",
+              "RelativeToolTip": "CommandSmartHouse\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T11:50:25.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Light.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\CommandSmartHouse\\CommandSmartHouse\\Light.cs",
+              "RelativeDocumentMoniker": "CommandSmartHouse\\Light.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\CommandSmartHouse\\CommandSmartHouse\\Light.cs",
+              "RelativeToolTip": "CommandSmartHouse\\Light.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T11:51:28.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ICommand.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\CommandSmartHouse\\CommandSmartHouse\\ICommand.cs",
+              "RelativeDocumentMoniker": "CommandSmartHouse\\ICommand.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\CommandSmartHouse\\CommandSmartHouse\\ICommand.cs",
+              "RelativeToolTip": "CommandSmartHouse\\ICommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T11:50:50.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AirConditioner.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\CommandSmartHouse\\CommandSmartHouse\\AirConditioner.cs",
+              "RelativeDocumentMoniker": "CommandSmartHouse\\AirConditioner.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\CommandSmartHouse\\CommandSmartHouse\\AirConditioner.cs",
+              "RelativeToolTip": "CommandSmartHouse\\AirConditioner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T11:59:52.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TurnOnAirConditionerCommand.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\CommandSmartHouse\\CommandSmartHouse\\TurnOnAirConditionerCommand.cs",
+              "RelativeDocumentMoniker": "CommandSmartHouse\\TurnOnAirConditionerCommand.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\CommandSmartHouse\\CommandSmartHouse\\TurnOnAirConditionerCommand.cs",
+              "RelativeToolTip": "CommandSmartHouse\\TurnOnAirConditionerCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T12:00:26.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TurnOnLightCommand.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\CommandSmartHouse\\CommandSmartHouse\\TurnOnLightCommand.cs",
+              "RelativeDocumentMoniker": "CommandSmartHouse\\TurnOnLightCommand.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\CommandSmartHouse\\CommandSmartHouse\\TurnOnLightCommand.cs",
+              "RelativeToolTip": "CommandSmartHouse\\TurnOnLightCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T11:55:50.039Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1134,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
