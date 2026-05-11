@@ -11,7 +11,7 @@ namespace DesignPatternsCourseWork.ChainOfResponsibility
 
         protected override bool CanHandle(Order order)
         {
-          return true;
+          return order.City.Equals("Sofia", StringComparison.OrdinalIgnoreCase);
         }
 
         protected override void Process(Order order)

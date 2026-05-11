@@ -10,6 +10,7 @@ namespace DesignPatternsCourseWork.Models
         public IMenuItem Drink { get; set; }
         public IMenuItem Dessert { get; set; }
         public double TotalPrice { get; set; }
+        public string City { get; set; }
 
         public Order(ILogger logger)
         {

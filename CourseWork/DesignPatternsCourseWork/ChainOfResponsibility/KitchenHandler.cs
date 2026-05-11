@@ -5,19 +5,20 @@ namespace DesignPatternsCourseWork.ChainOfResponsibility
 {
     public class KitchenHandler : BaseOrderHandler
     {
-        public KitchenHandler(ILogger logger) : base(logger) 
-        { 
+        public KitchenHandler(ILogger logger) : base(logger)
+        {
         }
 
         protected override bool CanHandle(Order order)
-        {           
-            return true;
+        {
+            return order.MainDish != null ||
+                   order.Dessert != null ||
+                   order.Drink != null;
         }
-    
 
         protected override void Process(Order order)
         {
-            _logger.Log($"Kitchen preparing order {order.Id}...");
+            _logger.Log($"The order has been placed in the kitchen...");
         }
     }
 }

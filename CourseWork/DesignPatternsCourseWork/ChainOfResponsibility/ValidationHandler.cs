@@ -23,12 +23,18 @@ namespace DesignPatternsCourseWork.ChainOfResponsibility
                 return false;
             }
 
+            if (!order.City.Equals("Sofia", StringComparison.OrdinalIgnoreCase))
+            {
+                _logger.LogError($"Delivery to {order.City} is not supported. Order rejected.");
+                return false;
+            }
+
             return true;
         }
 
         protected override void Process(Order order)
         {
-            _logger.LogSuccess($"Order validation {order.Id} was successful!");
+            _logger.LogSuccess($"Order validation was successful!");
         }
     }
 }
